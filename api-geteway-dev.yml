@@ -6,5 +6,5 @@ zuul:
       #敏感过滤
       sensitiveHeaders:
   # 禁止路由接口
-  ignored-patterns:
-    - /**/product/listForOrder
+  # ignored-patterns:
+  #  - /**/product/listForOrder
